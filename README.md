@@ -1,2 +1,2 @@
-# smoke-detection
-Detecting smoke from satellite images
+# transverse-bands-detection
+Detecting transverse cirrus bands from satellite images
